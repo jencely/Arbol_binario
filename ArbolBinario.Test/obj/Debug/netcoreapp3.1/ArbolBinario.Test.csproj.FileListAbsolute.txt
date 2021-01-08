@@ -1,0 +1,4 @@
+D:\yo!!!!!!!!\INSTITUTO\Tercer semestre\Progrmacion visual\Proyectos\Adt\ArbolBinario.Test\obj\Debug\netcoreapp3.1\ArbolBinario.Test.csprojAssemblyReference.cache
+D:\yo!!!!!!!!\INSTITUTO\Tercer semestre\Progrmacion visual\Proyectos\Adt\ArbolBinario.Test\obj\Debug\netcoreapp3.1\ArbolBinario.Test.AssemblyInfoInputs.cache
+D:\yo!!!!!!!!\INSTITUTO\Tercer semestre\Progrmacion visual\Proyectos\Adt\ArbolBinario.Test\obj\Debug\netcoreapp3.1\ArbolBinario.Test.AssemblyInfo.cs
+D:\yo!!!!!!!!\INSTITUTO\Tercer semestre\Progrmacion visual\Proyectos\Adt\ArbolBinario.Test\obj\Debug\netcoreapp3.1\ArbolBinario.Test.csproj.CoreCompileInputs.cache
