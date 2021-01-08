@@ -1,0 +1,9 @@
+D:\yo!!!!!!!!\INSTITUTO\Tercer semestre\Progrmacion visual\Proyectos\Adt\Adt\bin\Debug\netstandard2.0\Adt.deps.json
+D:\yo!!!!!!!!\INSTITUTO\Tercer semestre\Progrmacion visual\Proyectos\Adt\Adt\bin\Debug\netstandard2.0\Adt.dll
+D:\yo!!!!!!!!\INSTITUTO\Tercer semestre\Progrmacion visual\Proyectos\Adt\Adt\bin\Debug\netstandard2.0\Adt.pdb
+D:\yo!!!!!!!!\INSTITUTO\Tercer semestre\Progrmacion visual\Proyectos\Adt\Adt\obj\Debug\netstandard2.0\Adt.csprojAssemblyReference.cache
+D:\yo!!!!!!!!\INSTITUTO\Tercer semestre\Progrmacion visual\Proyectos\Adt\Adt\obj\Debug\netstandard2.0\Adt.AssemblyInfoInputs.cache
+D:\yo!!!!!!!!\INSTITUTO\Tercer semestre\Progrmacion visual\Proyectos\Adt\Adt\obj\Debug\netstandard2.0\Adt.AssemblyInfo.cs
+D:\yo!!!!!!!!\INSTITUTO\Tercer semestre\Progrmacion visual\Proyectos\Adt\Adt\obj\Debug\netstandard2.0\Adt.csproj.CoreCompileInputs.cache
+D:\yo!!!!!!!!\INSTITUTO\Tercer semestre\Progrmacion visual\Proyectos\Adt\Adt\obj\Debug\netstandard2.0\Adt.dll
+D:\yo!!!!!!!!\INSTITUTO\Tercer semestre\Progrmacion visual\Proyectos\Adt\Adt\obj\Debug\netstandard2.0\Adt.pdb

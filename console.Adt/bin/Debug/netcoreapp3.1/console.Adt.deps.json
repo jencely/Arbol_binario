@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "console.Adt/1.0.0": {
+        "dependencies": {
+          "Adt": "1.0.0"
+        },
+        "runtime": {
+          "console.Adt.dll": {}
+        }
+      },
+      "Adt/1.0.0": {
+        "runtime": {
+          "Adt.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "console.Adt/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Adt/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

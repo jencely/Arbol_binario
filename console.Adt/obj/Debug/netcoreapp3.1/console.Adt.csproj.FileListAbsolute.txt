@@ -1,0 +1,16 @@
+D:\yo!!!!!!!!\INSTITUTO\Tercer semestre\Progrmacion visual\Proyectos\Adt\console.Adt\bin\Debug\netcoreapp3.1\console.Adt.exe
+D:\yo!!!!!!!!\INSTITUTO\Tercer semestre\Progrmacion visual\Proyectos\Adt\console.Adt\bin\Debug\netcoreapp3.1\console.Adt.deps.json
+D:\yo!!!!!!!!\INSTITUTO\Tercer semestre\Progrmacion visual\Proyectos\Adt\console.Adt\bin\Debug\netcoreapp3.1\console.Adt.runtimeconfig.json
+D:\yo!!!!!!!!\INSTITUTO\Tercer semestre\Progrmacion visual\Proyectos\Adt\console.Adt\bin\Debug\netcoreapp3.1\console.Adt.runtimeconfig.dev.json
+D:\yo!!!!!!!!\INSTITUTO\Tercer semestre\Progrmacion visual\Proyectos\Adt\console.Adt\bin\Debug\netcoreapp3.1\console.Adt.dll
+D:\yo!!!!!!!!\INSTITUTO\Tercer semestre\Progrmacion visual\Proyectos\Adt\console.Adt\bin\Debug\netcoreapp3.1\console.Adt.pdb
+D:\yo!!!!!!!!\INSTITUTO\Tercer semestre\Progrmacion visual\Proyectos\Adt\console.Adt\bin\Debug\netcoreapp3.1\Adt.dll
+D:\yo!!!!!!!!\INSTITUTO\Tercer semestre\Progrmacion visual\Proyectos\Adt\console.Adt\bin\Debug\netcoreapp3.1\Adt.pdb
+D:\yo!!!!!!!!\INSTITUTO\Tercer semestre\Progrmacion visual\Proyectos\Adt\console.Adt\obj\Debug\netcoreapp3.1\console.Adt.csprojAssemblyReference.cache
+D:\yo!!!!!!!!\INSTITUTO\Tercer semestre\Progrmacion visual\Proyectos\Adt\console.Adt\obj\Debug\netcoreapp3.1\console.Adt.AssemblyInfoInputs.cache
+D:\yo!!!!!!!!\INSTITUTO\Tercer semestre\Progrmacion visual\Proyectos\Adt\console.Adt\obj\Debug\netcoreapp3.1\console.Adt.AssemblyInfo.cs
+D:\yo!!!!!!!!\INSTITUTO\Tercer semestre\Progrmacion visual\Proyectos\Adt\console.Adt\obj\Debug\netcoreapp3.1\console.Adt.csproj.CoreCompileInputs.cache
+D:\yo!!!!!!!!\INSTITUTO\Tercer semestre\Progrmacion visual\Proyectos\Adt\console.Adt\obj\Debug\netcoreapp3.1\console.Adt.csproj.CopyComplete
+D:\yo!!!!!!!!\INSTITUTO\Tercer semestre\Progrmacion visual\Proyectos\Adt\console.Adt\obj\Debug\netcoreapp3.1\console.Adt.dll
+D:\yo!!!!!!!!\INSTITUTO\Tercer semestre\Progrmacion visual\Proyectos\Adt\console.Adt\obj\Debug\netcoreapp3.1\console.Adt.pdb
+D:\yo!!!!!!!!\INSTITUTO\Tercer semestre\Progrmacion visual\Proyectos\Adt\console.Adt\obj\Debug\netcoreapp3.1\console.Adt.genruntimeconfig.cache
